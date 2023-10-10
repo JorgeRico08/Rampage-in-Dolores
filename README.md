@@ -1,2 +1,2 @@
-# Rampage-in-Dolores
-Juego Rampage in Dolores
+# Proyecto Rampage-in-Dolores
+
