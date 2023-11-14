@@ -82,5 +82,6 @@ El juego concluye con una vista panorámica de Dolores Hidalgo en ruinas
 # Trello
 https://trello.com/invite/b/gSOHMoco/ATTI30bae9661405075f4dc8e277c053d957BF3BAC1D/rampage-dolores
 
-
+# Proyecto principal
+https://github.com/JorgeRico08/Rampage-Dolores-GameOficial.git
  
