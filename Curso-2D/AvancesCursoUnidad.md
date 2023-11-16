@@ -13,6 +13,8 @@
     - [Curso Cuatro](#curso-cuatro)
     - [Curso Cinco](#curso-cinco)
     - [Curso Seis](#curso-seis)
+    - [Curso Siete](#curso-siete)
+    - [Curso Ocho](#curso-ocho)
 
 ### Curso Uno 
 #### Introducción a Unity y conceptos básicos
@@ -66,3 +68,32 @@
   **Nota: Las images son un antes de pasar y un despues de pasar**
   ![Imagen Curso 1](img/Curso6.3.png)
   ![Imagen Curso 1](img/Curso6.4.png)
+
+
+### Curso Siete
+#### Interfaz de usuario (UI)
+- **Muestra ejemplo del curso seguido**
+#
+  ![Imagen Curso 1](img/Curso7.png)
+  ![Imagen Curso 1](img/Curso7.1.png)
+  ![Imagen Curso 1](img/Curso7.2.png)
+
+### Curso Ocho
+#### Creamos un juego
+- **Muestra ejemplo del curso seguido**
+#
+  ![Imagen Curso 1](img/Curso8.png)
+  ![Imagen Curso 1](img/Curso8.1.png)
+  ![Imagen Curso 1](img/Curso8.2.png)
+  ![Imagen Curso 1](img/Curso8.3.png)
+  ![Imagen Curso 1](img/Curso8.4.png)
+  ![Imagen Curso 1](img/Curso8.5.png)
+  ![Imagen Curso 1](img/Curso8.6.png)
+- **Cabe mencionar que en este curso al final nos dejaba el jeugo con errores los cuales nos pedian solucionbar asi que en la ultimas capturas se vera la solucion**
+- **Se meciona que en esta parte daba un error en vista de game over y para este caso se solucono con un nuevo objeto el cual se toma como punto de regerencia y el cual se llamo OriginPont este obtenia un punto de partida para que el personaje tomara se punto de inicio y ya cuando se terminara el juego al dar replay reiniciara ahi.**
+  ![Imagen Curso 1](img/Curso8.1.1.png)
+  ![Imagen Curso 1](img/Curso8.1.2.png)
+  ![Imagen Curso 1](img/Curso8.1.3.png)
+  ![Imagen Curso 1](img/Curso8.1.4.png)
+  ![Imagen Curso 1](img/Curso8.1.5.png)
+  ![Imagen Curso 1](img/Curso8.1.6.png)
