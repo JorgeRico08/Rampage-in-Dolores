@@ -1,6 +1,43 @@
-# Proyecto Rampage-in-Dolores
-# Descripcion 
-Este titulo tratara de enfocar la historia de una posible invacion alienigena y nuestro personaje principal (Nick) tendra que intentar sobrevivir.
+<h1 align="center">
+ Rampage-in-Dolores
+</h1>
+<h2 align="center">
+ Descripcion
+</h2>
+<p align = "center">
+ Este título tratará de un motor 2D perteneciente al género Acción y Aventura. La historia comienza con una raza alienígena que toma control del planeta tierra, asesinando a la mayoría de los habitantes del planeta al quedar algunas personas vivas, tratan de salvar su planeta y sobrevivir por su cuenta. Este videojuego se enfoca en Dolores Hidalgo Cuna de la Independencia, cuando la invasión ocurrió, CJ un estudiante de la UTNG quedo atrapado en su universidad, por lo tanto, tiene que enfrentarse a los alienígenas abriéndose paso por la universidad y las calles de Dolores buscando más supervivientes.
+</p>
+<h2>
+ Tabla de Contenido
+</h2>
+
+1. [Planeacion del Proyecto](#planeacion_del_proyecto)
+2. [Docuemntación](#documentación)
+3. [Recursos](#recursos)
+4. [Tecnologias y Versiones](#tecnologias_y_versiones)
+5. [Cursos Tomados](#cursos_tomados)
+
+## Planeacion_del_Proyecto
+
+Para el manejo de este proyecto se utilizó la herramienta de gestión Trello, con esta herramienta se logró tener un control en las fechas de entrega, asignación, seguimiento y cierre de tareas, así como el manejo de los Sprins
+Dentro de esta planeación se manejaron 4 Sprins  (Diseño, Desarrollo, Pruebas con Correcciones y Gráficos y Sonido) cada uno de ellos con sus distintas tareas especificadas en la planeación en la herramienta.
+[![Rampage in Dolores]()]([enlace_destino](https://trello.com/invite/b/gSOHMoco/ATTI30bae9661405075f4dc8e277c053d957BF3BAC1D/rampage-dolores))
+
+## Documentación
+
+Documentacion del proyecto
+
+## Recursos
+
+recursos del proyecto
+
+## Tecnologias y Versiones
+
+Tecnologias y versiones usadas
+
+## Cursos Tomados
+
+Cursos tomados para lograr este proyecto 
 
 # Desarrolladores
 - Jessy Javier Araiza Cervantes
