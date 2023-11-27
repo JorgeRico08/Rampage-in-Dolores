@@ -24,10 +24,17 @@ Dentro de esta planeación se manejaron 4 Sprins  (Diseño, Desarrollo, Pruebas 
 [![Rampage in Dolores]()]([enlace_destino](https://trello.com/invite/b/gSOHMoco/ATTI30bae9661405075f4dc8e277c053d957BF3BAC1D/rampage-dolores))
 
 ## Documentación
+| Nombre              | Rampage in Dolores                       |
+|---------------------|------------------------------------------|
+| <p align = "center">Género </p>          | <p align = "center">Acción y Aventura</p>|
+|<p align = "center">Público Objetivo</p>  | <p align = "center">18 a 35 años</p>     |
+|<p align = "center">Desarrolladores</p>| Jessy Javier Araiza Cervantes <br> <p align = "center">y</p>  Jorge Alejandro Rico Arvizu |
+|<p align = "center">Tecnologías </p>| <p align = "center">Unity</p>            |
 
-Documentacion del proyecto
-
-## Recursos
+## Personajes
+| Información del Personaje   | Imagen                        |
+|-----------------------------|-------------------------------|
+| **Nombre:** CJ <br> **Edad:** 22 años <br>  **Rol:** Protagonista      | ![CJ]() |
 
 recursos del proyecto
 
