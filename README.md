@@ -47,12 +47,13 @@ Dentro de esta planeación se manejaron 4 Sprins  (Diseño, Desarrollo, Pruebas 
 
 
 ## Cursos Tomados
+
+Se tomaron dos cursos principales los cuales fueron las bases para lograr el desarrollo de Rampage in Dolores 
 |Nombre| Tecnologias  | Link        |Imagen|
 |-----------------------------|----------|-|-|
-|Introduccion a Unity para videojuegos 2D |Unity|[Curso 2D](https://www.domestika.org/es/courses/716-introduccion-a-unity-para-videojuegos-2d/course) |![VSC](Recursos/Imagenes/Curso_2D Domestica.png)|
-|Tutorial COMPLETO Unity 2D desde Cero|Unity|[Curso 2D](https://www.youtube.com/watch?v=GbmRt0wydQU&pp=ygUOY3Vyc28gMmQgdW5pdHk%3D)|![VSC](Recursos/Imagenes/Curso_2D Youtube.png)|
+|Introduccion a Unity para videojuegos 2D |Unity|[Curso 2D](https://www.domestika.org/es/courses/716-introduccion-a-unity-para-videojuegos-2d/course) |![VSC](Recursos/Imagenes/Curso_2DDomestica.png)|
+|Tutorial COMPLETO Unity 2D desde Cero|Unity|[Curso 2D](https://www.youtube.com/watch?v=GbmRt0wydQU&pp=ygUOY3Vyc28gMmQgdW5pdHk%3D)|![YOUTUBE](Recursos/Imagenes/Curso_2DYoutube.png)|
 
-Cursos tomados para lograr este proyecto 
 
 
 # Historia
