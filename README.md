@@ -35,22 +35,22 @@ Dentro de esta planeación se manejaron 4 Sprins  (Diseño, Desarrollo, Pruebas 
 | Información del Personajes  | Imagen                        |
 |-----------------------------|-------------------------------|
 | **Nombre:** CJ <br> **Edad:** 22 años <br>  **Rol:** Protagonista      | ![CJ](Recursos/Imagenes/CJ.png) |
-| **Nombre:** Soldado N1 <br> **Edad:** Desconocida <br>  **Rol:** Enemigo nivel 01    | ![CJ](Recursos/Imagenes/CJ.png) |
+| **Nombre:** Soldado N1 <br> **Edad:** Desconocida <br>  **Rol:** Enemigo nivel 01    | ![CJ](Recursos/Imagenes/Enemigo.png) |
 | **Nombre:** Soldado N2 <br> **Edad:** Desconocida <br>  **Rol:** Enemigo nivel 02    | ![CJ](Recursos/Imagenes/CJ.png) |
 | **Nombre:** Jefe <br> **Edad:** Desconocida <br>  **Rol:** Enemigo Final    | ![CJ](Recursos/Imagenes/CJ.png) |
 
 ## Tecnologias y Versiones
 |Nombre| Tecnologias  | Versiones            |Imagen|Descarga|
 |-----------------------------|----------|-|-|-|
-|Motor |Unity|2022.3.12f1|-|[Descarga](https://unity.com/es/download)|
-|Editor de Texto|Visual Estudio Code|1.84.2|-|[Descarga](https://code.visualstudio.com/)|
+|Motor |Unity|2022.3.12f1|![VSC](Recursos/Imagenes/VSC.png)|[Descarga](https://unity.com/es/download)|
+|Editor de Texto|Visual Estudio Code|1.84.2|![Unity](Recursos/Imagenes/UnityHub.png)|[Descarga](https://code.visualstudio.com/)|
 
 
 ## Cursos Tomados
 |Nombre| Tecnologias  | Link        |Imagen|
 |-----------------------------|----------|-|-|
-|Introduccion a Unity para videojuegos 2D |Unity|[Curso 2D](https://www.domestika.org/es/courses/716-introduccion-a-unity-para-videojuegos-2d/course) |-|
-|Tutorial COMPLETO Unity 2D desde Cero|Unity|[Curso 2D](https://www.youtube.com/watch?v=GbmRt0wydQU&pp=ygUOY3Vyc28gMmQgdW5pdHk%3D)|-|
+|Introduccion a Unity para videojuegos 2D |Unity|[Curso 2D](https://www.domestika.org/es/courses/716-introduccion-a-unity-para-videojuegos-2d/course) |![VSC](Recursos/Imagenes/Curso_2D Domestica.png)|
+|Tutorial COMPLETO Unity 2D desde Cero|Unity|[Curso 2D](https://www.youtube.com/watch?v=GbmRt0wydQU&pp=ygUOY3Vyc28gMmQgdW5pdHk%3D)|![VSC](Recursos/Imagenes/Curso_2D Youtube.png)|
 
 Cursos tomados para lograr este proyecto 
 
