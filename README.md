@@ -24,39 +24,39 @@ Dentro de esta planeación se manejaron 4 Sprins  (Diseño, Desarrollo, Pruebas 
 [![Rampage in Dolores]()]([enlace_destino](https://trello.com/invite/b/gSOHMoco/ATTI30bae9661405075f4dc8e277c053d957BF3BAC1D/rampage-dolores))
 
 ## Documentación
+| Nombre              | Rampage in Dolores                       |
+|---------------------|------------------------------------------|
+| <p align = "center">Género </p>          | <p align = "center">Acción y Aventura</p>|
+|<p align = "center">Público Objetivo</p>  | <p align = "center">18 a 35 años</p>     |
+|<p align = "center">Desarrolladores</p>| Jessy Javier Araiza Cervantes <br> <p align = "center">y</p>  Jorge Alejandro Rico Arvizu |
+|<p align = "center">Tecnologías </p>| <p align = "center">Unity</p>            |
 
-Documentacion del proyecto
-
-## Recursos
-
-recursos del proyecto
+## Personajes
+| Información del Personajes  | Imagen                        |
+|-----------------------------|-------------------------------|
+| **Nombre:** CJ <br> **Edad:** 22 años <br>  **Rol:** Protagonista      | ![CJ](Recursos/Imagenes/CJ.png) |
+| **Nombre:** Soldado N1 <br> **Edad:** Desconocida <br>  **Rol:** Enemigo nivel 01    | ![CJ](Recursos/Imagenes/CJ.png) |
+| **Nombre:** Soldado N2 <br> **Edad:** Desconocida <br>  **Rol:** Enemigo nivel 02    | ![CJ](Recursos/Imagenes/CJ.png) |
+| **Nombre:** Jefe <br> **Edad:** Desconocida <br>  **Rol:** Enemigo Final    | ![CJ](Recursos/Imagenes/CJ.png) |
 
 ## Tecnologias y Versiones
+|Nombre| Tecnologias  | Versiones            |Imagen|Descarga|
+|-----------------------------|----------|-|-|-|
+|Motor |Unity|2022.3.12f1|-|[Descarga](https://unity.com/es/download)|
+|Editor de Texto|Visual Estudio Code|1.84.2|-|[Descarga](https://code.visualstudio.com/)|
 
-Tecnologias y versiones usadas
 
 ## Cursos Tomados
+|Nombre| Tecnologias  | Link        |Imagen|
+|-----------------------------|----------|-|-|
+|Introduccion a Unity para videojuegos 2D |Unity|[Curso 2D](https://www.domestika.org/es/courses/716-introduccion-a-unity-para-videojuegos-2d/course) |-|
+|Tutorial COMPLETO Unity 2D desde Cero|Unity|[Curso 2D](https://www.youtube.com/watch?v=GbmRt0wydQU&pp=ygUOY3Vyc28gMmQgdW5pdHk%3D)|-|
 
 Cursos tomados para lograr este proyecto 
 
-# Desarrolladores
-- Jessy Javier Araiza Cervantes
-- Jorge Alejandro Rico Arvizu
- 
-# Género.
-Acción y aventura
-
-# Publico Objetivo
-Jugadores de 18 a 35 años que disfrutan de juegos de acción y aventura con elementos de ciencia ficción.
 
 # Historia
 El juego se desarrolla en un futuro cercano, cuando la Tierra es invadida por una raza alienígena malvada llamada los Infernales. Han secuestrado a la mayoría de la humanidad y solo tú, un valiente, has logrado escapar. Tu misión es trasladarte por Dolores Hidalgo para buscar, infiltrarte en una de las naves alienígenas, para rescatar a los humanos y derrotar a los Infernales, para de esta manera lograr salvar una parte de la Tierra
-
-# Personajes 
-- Protagonista: Un civil que es hábil, fuerte y decidido.
-- Aliado anónimo: Un personaje desconocido que te proporciona información valiosa en tu viaje.
-- Líder de los infernales: Una figura misteriosa con motivaciones siniestras.
-- Infernales: Enemigos comunes, solo soldados normales.
 
 # Niveles
 - Nivel 0: Base del juego, es lo que transcurre para llegar al nivel 01, 02 y 03
@@ -64,17 +64,9 @@ El juego se desarrolla en un futuro cercano, cuando la Tierra es invadida por un
 - Nivel 2: Teatro
 - Nivel 3: Parroquia de dolores
 
-# Armas
-- Pistola 22 mm: Arma base, no realiza gran daño, pero tiene munición ilimitada
-- Rifle de Plasma: Un arma poderosa, pero con munición limitada
-
-# Vestimenta
-- Personaje base: Camisa blanca, pantalón de mezclilla y tenis conversé
 
 # Objetos Especiales
-- Granada: Es una grada con la capacidad de eliminar a los alienígenas a su alrededor
 - Botiquín: Lo podrás encontrar en algunas partes del mapa y te permite recuperar salud
-- Escopeta: Arma especial, Es muy poderosa, pero tiene una duración limitada
 
 # Guion
 - Escena 1: Introducción
@@ -116,9 +108,3 @@ El juego concluye con una vista panorámica de Dolores Hidalgo en ruinas
 - Narrador:
 "La humanidad prevaleció gracias a tu valentía. Dolores se recupera, y la esperanza florece de nuevo."
 
-# Trello
-https://trello.com/invite/b/gSOHMoco/ATTI30bae9661405075f4dc8e277c053d957BF3BAC1D/rampage-dolores
-
-# Proyecto principal
-https://github.com/JorgeRico08/Rampage-Dolores-GameOficial.git
- 
