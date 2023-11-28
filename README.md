@@ -58,22 +58,17 @@ Se tomaron dos cursos principales los cuales fueron las bases para lograr el des
 
 |Nombre| ¿Donde? |Imagen|
 |-|-|-|
-|Nivel 01|El nivel se desempeña en la UTNG al quedar atrapado en ella.| |
-|Nivel 02|Se desempeña en la avenida norte, pasando por las tiendas mas famosas como, la flamita, farmacia guadalajara, tienda de empeño entre otras.| |
-|Nivel 03|El nivel 03 y final se lleva a cabo en la parroquia de Dolores Hidalgo contra el lider de los infernals| |
+|Nivel 01|El nivel se desempeña en la UTNG al quedar atrapado en ella.| ![nivel01](Recursos/Imagenes/Nivel01.png)|
+|Nivel 02|Se desempeña en la avenida norte, pasando por las tiendas mas famosas como, la flamita, farmacia guadalajara, tienda de empeño entre otras.| ![nivel02](Recursos/Imagenes/Nivel02.png)|
+|Nivel 03|El nivel 03 y final se lleva a cabo en la parroquia de Dolores Hidalgo contra el lider de los infernals|![nivel03](Aqui va la imagen del nivel 03) |
 
 # Historia
 El juego se desarrolla en un futuro cercano, cuando la Tierra es invadida por una raza alienígena malvada llamada los Infernales. Han secuestrado a la mayoría de la humanidad y solo tú, un valiente, has logrado escapar. Tu misión es trasladarte por Dolores Hidalgo para buscar, infiltrarte en una de las naves alienígenas, para rescatar a los humanos y derrotar a los Infernales, para de esta manera lograr salvar una parte de la Tierra
 
-# Niveles
-- Nivel 0: Base del juego, es lo que transcurre para llegar al nivel 01, 02 y 03
-- Nivel 1: Entrada de la UTNG 
-- Nivel 2: Teatro
-- Nivel 3: Parroquia de dolores
-
-
 # Objetos Especiales
-- Botiquín: Lo podrás encontrar en algunas partes del mapa y te permite recuperar salud
+|Nombre | Detalle| Imagen |
+|-|-|-| 
+|Corazon | Lo podrás encontrar en algunas partes del mapa y te permite recuperar salud | -|
 
 # Guion
 - Escena 1: Introducción
