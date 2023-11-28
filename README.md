@@ -21,7 +21,7 @@
 
 Para el manejo de este proyecto se utilizó la herramienta de gestión Trello, con esta herramienta se logró tener un control en las fechas de entrega, asignación, seguimiento y cierre de tareas, así como el manejo de los Sprins
 Dentro de esta planeación se manejaron 4 Sprins  (Diseño, Desarrollo, Pruebas con Correcciones y Gráficos y Sonido) cada uno de ellos con sus distintas tareas especificadas en la planeación en la herramienta.
-[![Rampage in Dolores](Recursos/Imagenes/Trello.png)](https://trello.com/invite/b/gSOHMoco/ATTI30bae9661405075f4dc8e277c053d957BF3BAC1D/rampage-dolores)
+[![Rampage in Dolores](Recursos/Imagenes/Trello.png)](https://trello.com/invite/b/gSOHMoco/ATTI30bae9661405075f4dc8e277c053d957BF3BAC1D/rampage-dolores) Si deseas acceder a la planeación puedes dar clic sobre la imagen.
 
 
 ## Documentación
@@ -48,14 +48,19 @@ Dentro de esta planeación se manejaron 4 Sprins  (Diseño, Desarrollo, Pruebas 
 
 
 ## Cursos
-
 Se tomaron dos cursos principales los cuales fueron las bases para lograr el desarrollo de Rampage in Dolores 
 |Nombre| Tecnologias  | Link        |Imagen|
 |-----------------------------|----------|-|-|
 |Introduccion a Unity para videojuegos 2D |Unity|[Curso 2D](https://www.domestika.org/es/courses/716-introduccion-a-unity-para-videojuegos-2d/course) |![VSC](Recursos/Imagenes/Curso_2DDomestica.png)|
 |Tutorial COMPLETO Unity 2D desde Cero|Unity|[Curso 2D](https://www.youtube.com/watch?v=GbmRt0wydQU&pp=ygUOY3Vyc28gMmQgdW5pdHk%3D)|![YOUTUBE](Recursos/Imagenes/Curso_2DYoutube.png)|
 
+## Niveles
 
+|Nombre| ¿Donde? |Imagen|
+|-|-|-|
+|Nivel 01|El nivel se desempeña en la UTNG al quedar atrapado en ella.| |
+|Nivel 02|Se desempeña en la avenida norte, pasando por las tiendas mas famosas como, la flamita, farmacia guadalajara, tienda de empeño entre otras.| |
+|Nivel 03|El nivel 03 y final se lleva a cabo en la parroquia de Dolores Hidalgo contra el lider de los infernals| |
 
 # Historia
 El juego se desarrolla en un futuro cercano, cuando la Tierra es invadida por una raza alienígena malvada llamada los Infernales. Han secuestrado a la mayoría de la humanidad y solo tú, un valiente, has logrado escapar. Tu misión es trasladarte por Dolores Hidalgo para buscar, infiltrarte en una de las naves alienígenas, para rescatar a los humanos y derrotar a los Infernales, para de esta manera lograr salvar una parte de la Tierra
