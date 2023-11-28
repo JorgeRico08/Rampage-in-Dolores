@@ -17,7 +17,7 @@ Este título tratará de un motor 2D perteneciente al género Acción y Aventura
 7. [Tecnologias](#tecnologias)
 8. [Cursos](#cursos)
 
-## Planeacion_del_Proyecto
+## Planeación
 
 Para el manejo de este proyecto se utilizó la herramienta de gestión Trello, con esta herramienta se logró tener un control en las fechas de entrega, asignación, seguimiento y cierre de tareas, así como el manejo de los Sprins
 Dentro de esta planeación se manejaron 4 Sprins  (Diseño, Desarrollo, Pruebas con Correcciones y Gráficos y Sonido) cada uno de ellos con sus distintas tareas especificadas en la planeación en la herramienta.
