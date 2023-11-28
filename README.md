@@ -21,7 +21,8 @@
 
 Para el manejo de este proyecto se utilizó la herramienta de gestión Trello, con esta herramienta se logró tener un control en las fechas de entrega, asignación, seguimiento y cierre de tareas, así como el manejo de los Sprins
 Dentro de esta planeación se manejaron 4 Sprins  (Diseño, Desarrollo, Pruebas con Correcciones y Gráficos y Sonido) cada uno de ellos con sus distintas tareas especificadas en la planeación en la herramienta.
-[![Rampage in Dolores]()]([enlace_destino](https://trello.com/invite/b/gSOHMoco/ATTI30bae9661405075f4dc8e277c053d957BF3BAC1D/rampage-dolores))
+[![Rampage in Dolores](Recursos/Imagenes/Trello.png)](https://trello.com/invite/b/gSOHMoco/ATTI30bae9661405075f4dc8e277c053d957BF3BAC1D/rampage-dolores)
+
 
 ## Documentación
 | Nombre              | Rampage in Dolores                       |
