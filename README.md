@@ -15,7 +15,7 @@
 2. [Docuemntación](#documentación)
 3. [Recursos](#recursos)
 4. [Tecnologias y Versiones](#tecnologias_y_versiones)
-5. [Cursos Tomados](#cursos_tomados)
+5. [Cursos](#cursos)
 
 ## Planeacion_del_Proyecto
 
@@ -46,7 +46,7 @@ Dentro de esta planeación se manejaron 4 Sprins  (Diseño, Desarrollo, Pruebas 
 |Editor de Texto|Visual Estudio Code|1.84.2|![Unity](Recursos/Imagenes/UnityHub.png)|[Descarga](https://code.visualstudio.com/)|
 
 
-## Cursos Tomados
+## Cursos
 
 Se tomaron dos cursos principales los cuales fueron las bases para lograr el desarrollo de Rampage in Dolores 
 |Nombre| Tecnologias  | Link        |Imagen|
