@@ -1,23 +1,21 @@
 <h1 align="center">
  Rampage-in-Dolores
- ![Texto Alternativo]()
-
 </h1>
-<h2 align="center">
- Descripcion
-</h2>
 <p align = "center">
- Este título tratará de un motor 2D perteneciente al género Acción y Aventura. La historia comienza con una raza alienígena que toma control del planeta tierra, asesinando a la mayoría de los habitantes del planeta al quedar algunas personas vivas, tratan de salvar su planeta y sobrevivir por su cuenta. Este videojuego se enfoca en Dolores Hidalgo Cuna de la Independencia, cuando la invasión ocurrió, CJ un estudiante de la UTNG quedo atrapado en su universidad, por lo tanto, tiene que enfrentarse a los alienígenas abriéndose paso por la universidad y las calles de Dolores buscando más supervivientes.
+Este título tratará de un motor 2D perteneciente al género Acción y Aventura. La historia comienza con una raza alienígena que toma control del planeta tierra, asesinando a la mayoría de los habitantes del planeta al quedar algunas personas vivas, tratan de salvar su planeta y sobrevivir por su cuenta. Este videojuego se enfoca en Dolores Hidalgo Cuna de la Independencia, cuando la invasión ocurrió, CJ un estudiante de la UTNG quedo atrapado en su universidad, por lo tanto, tiene que enfrentarse a los alienígenas abriéndose paso por la universidad y las calles de Dolores buscando más supervivientes.
 </p>
-<h2>
- Tabla de Contenido
-</h2>
 
-1. [Planeacion del Proyecto](#planeacion_del_proyecto)
+ ![Inicio](Recursos/Imagenes/PantallaDeInicio.png)
+
+# Tabla de Contenido
+1. [Planeación](#planeación)
 2. [Docuemntación](#documentación)
-3. [Recursos](#recursos)
-4. [Tecnologias y Versiones](#tecnologias_y_versiones)
-5. [Cursos](#cursos)
+3. [Personajes](#personajes)
+4. [Objetos](#objetos)
+5. [Niveles](#niveles)
+6. [Guion](#guion)
+7. [Tecnologias](#tecnologias)
+8. [Cursos](#cursos)
 
 ## Planeacion_del_Proyecto
 
@@ -41,7 +39,8 @@ Dentro de esta planeación se manejaron 4 Sprins  (Diseño, Desarrollo, Pruebas 
 | **Nombre:** Soldado N1 <br> **Edad:** Desconocida <br>  **Rol:** Enemigo nivel 01    | ![CJ](Recursos/Imagenes/Enemigo.png) |
 | **Nombre:** Soldado N2 <br> **Edad:** Desconocida <br>  **Rol:** Enemigo nivel 02    | ![CJ](Recursos/Imagenes/CJ.png) |
 | **Nombre:** Jefe <br> **Edad:** Desconocida <br>  **Rol:** Enemigo Final    | ![CJ](Recursos/Imagenes/CJ.png) |
-# Objetos Especiales
+
+## Objetos
 |Nombre | Detalle| Imagen |
 |-|-|-| 
 |Corazon | Lo podrás encontrar en algunas partes del mapa y te permite recuperar salud | ![corazaon](Recursos/Imagenes/Corazones.png)|
@@ -53,10 +52,7 @@ Dentro de esta planeación se manejaron 4 Sprins  (Diseño, Desarrollo, Pruebas 
 |Nivel 02|Se desempeña en la avenida norte, pasando por las tiendas mas famosas como, la flamita, farmacia guadalajara, tienda de empeño entre otras.| ![nivel02](Recursos/Imagenes/Nivel02.png)|
 |Nivel 03|El nivel 03 y final se lleva a cabo en la parroquia de Dolores Hidalgo contra el lider de los infernals|![nivel03](Aqui va la imagen del nivel 03) |
 
-# Historia
-El juego se desarrolla en un futuro cercano, cuando la Tierra es invadida por una raza alienígena malvada llamada los Infernales. Han secuestrado a la mayoría de la humanidad y solo tú, un valiente, has logrado escapar. Tu misión es trasladarte por Dolores Hidalgo para buscar, infiltrarte en una de las naves alienígenas, para rescatar a los humanos y derrotar a los Infernales, para de esta manera lograr salvar una parte de la Tierra
-
-# Guion
+## Guion
 |Ecena | Descripcion |
 |- |-|
 |1|**El inicio:** <br> El juego comienza con una vista del personaje escondido en la Universidad. <br> En un descuido uno de los alienigenas deja su arma, CJ la roba y ahi empieza su lucha en la Universidad|
@@ -70,7 +66,7 @@ El juego se desarrolla en un futuro cercano, cuando la Tierra es invadida por un
 |9|**Victoria:** <br> "El jugador logra derrotar al lider de los infernals"|
 |10|**Personaje principal:** <br> "Dolores es nuestro una vez más."|
 
-## Tecnologias y Versiones
+## Tecnologias
 
 |Nombre| Tecnologias  | Versiones            |Imagen|Descarga|
 |-----------------------------|----------|-|-|-|
@@ -79,7 +75,7 @@ El juego se desarrolla en un futuro cercano, cuando la Tierra es invadida por un
 
 ## Cursos
 
-Se tomaron dos cursos principales los cuales fueron las bases para lograr el desarrollo de Rampage in Dolores 
+Se tomaron los cursos necesarios para lograr obtener los conosimientos necesarios para la realizacion de este videojuego de nombre Rampage in Dolores 
 |Nombre| Tecnologias  | Link        |Imagen|
 |-----------------------------|----------|-|-|
 |Introduccion a Unity para videojuegos 2D |Unity|[Curso 2D](https://www.domestika.org/es/courses/716-introduccion-a-unity-para-videojuegos-2d/course) |![VSC](Recursos/Imagenes/Curso_2DDomestica.png)|
