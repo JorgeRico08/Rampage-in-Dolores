@@ -1,5 +1,5 @@
 <h1 align="center">
- Rampage in Dolores
+ Rampage-in-Dolores
 </h1>
 <p align = "center">
 Este título tratará de un motor 2D perteneciente al género Acción y Aventura. La historia comienza con una raza alienígena que toma control del planeta tierra, asesinando a la mayoría de los habitantes del planeta al quedar algunas personas vivas, tratan de salvar su planeta y sobrevivir por su cuenta. Este videojuego se enfoca en Dolores Hidalgo Cuna de la Independencia, cuando la invasión ocurrió, CJ un estudiante de la UTNG quedo atrapado en su universidad, por lo tanto, tiene que enfrentarse a los alienígenas abriéndose paso por la universidad y las calles de Dolores buscando más supervivientes.
