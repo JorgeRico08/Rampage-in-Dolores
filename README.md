@@ -35,9 +35,9 @@ Dentro de esta planeación se manejaron 4 Sprins  (Diseño, Desarrollo, Pruebas 
 ## Personajes
 | Información del Personajes  | Imagen                        |
 |-----------------------------|-------------------------------|
-| **Nombre:** CJ <br> **Edad:** 22 años <br>  **Rol:** Protagonista      | ![CJ](Recursos/Imagenes/CJ.png) |
-| **Nombre:** Soldado N1 <br> **Edad:** Desconocida <br>  **Rol:** Enemigo nivel 01    | ![CJ](Recursos/Imagenes/Enemigo.png) |
-| **Nombre:** Soldado N2 <br> **Edad:** Desconocida <br>  **Rol:** Enemigo nivel 02    | ![CJ](Recursos/Imagenes/CJ.png) |
+| **Nombre:** CJ <br> **Edad:** 22 años <br>  **Rol:** Protagonista      | ![CJ](Recursos/Imagenes/CJ_Personaje.png) |
+| **Nombre:** Soldado N1 <br> **Edad:** Desconocida <br>  **Rol:** Enemigo nivel 01    | ![EnemigoN1](Recursos/Imagenes/EnemigoN1.png) |
+| **Nombre:** Soldado N2 <br> **Edad:** Desconocida <br>  **Rol:** Enemigo nivel 02    | ![EnemigoN2](Recursos/Imagenes/EnemigoN2.png) |
 | **Nombre:** Jefe <br> **Edad:** Desconocida <br>  **Rol:** Enemigo Final    | ![JEFE](Recursos/Imagenes/ElJefe.png) |
 
 ## Objetos
