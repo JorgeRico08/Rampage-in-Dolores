@@ -11,8 +11,8 @@ public class DatosPlayer : MonoBehaviour
     private GameObject player;
     private Animator oAnimatorPlayer;
     private int iTotalVida = 10;
-    //private Corazones _corazones;
-    public RectTransform heartUI;
+    private Corazones _corazones;
+    private RectTransform heartUI;
     private int health;
     private float heartSize = 16f;
     private SpriteRenderer _renderer;
@@ -51,7 +51,7 @@ public class DatosPlayer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        heartUI = GameObject.FindWithTag("vida").GetComponent<RectTransform>();
     }
 
     public void sumarPuntos(int iPuntos)
@@ -100,15 +100,15 @@ public class DatosPlayer : MonoBehaviour
         DatosPlayerinstance.iTotalVida--;
         StartCoroutine("VisualFeedback");
 
-        if (iTotalVida <= 0)
-        {
-            player = GameObject.FindWithTag("Player");
-            player.SetActive(false);
-        }
+        //if (iTotalVida <= 0)
+        //{
+        //    player = GameObject.FindWithTag("Player");
+        //    player.SetActive(false);
+        //}
 
         //DatosPlayerinstance.restarPuntos(50);
-        //Corazones.resetSize(DatosPlayerinstance.iTotalVida);
-        heartUI.sizeDelta = new Vector2(heartSize * iTotalVida, heartSize);
+        Corazones.resetSize(DatosPlayerinstance.iTotalVida);
+        //heartUI.sizeDelta = new Vector2(heartSize * iTotalVida, heartSize);
         Debug.Log("Daño" + iTotalVida);
         DatosPlayerinstance.oAnimatorPlayer.SetBool("isHurt", false);
         isHurt = false;
@@ -127,15 +127,26 @@ public class DatosPlayer : MonoBehaviour
 
     public void AddHealth(int amount)
     {
-        health = iTotalVida++;
+        // Establecer un límite máximo de vida (por ejemplo, 10)
+        int vidaMaxima = 10;
 
-        if (health > iTotalVida)
+        // Verificar si la vida actual es menor que el límite
+        if (DatosPlayerinstance.iTotalVida < vidaMaxima)
         {
-            health = iTotalVida;
-        }
-        heartUI.sizeDelta = new Vector2(heartSize * health, heartSize);
-        Debug.Log("Mi vida " + health);
+            // Incrementar la vida
+            DatosPlayerinstance.iTotalVida += amount;
 
+            // Asegurarse de que la vida no supere el límite máximo
+            DatosPlayerinstance.iTotalVida = Mathf.Min(DatosPlayerinstance.iTotalVida, vidaMaxima);
+
+            // Actualizar el tamaño del corazón UI si es necesario.
+            Corazones.resetSize(DatosPlayerinstance.iTotalVida);
+        }
+        else
+        {
+            // Opcional: Puedes agregar algún código aquí si deseas manejar el caso en que la vida ya ha alcanzado el límite.
+            Debug.Log("La vida ya ha alcanzado el límite máximo.");
+        }
     }
 
     private IEnumerator VisualFeedback()

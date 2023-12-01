@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Item : MonoBehaviour
 {
-	public int healRestoration = 1;
+	public int healRestoration;
 
 	// [SerializeField] GameObject lightingParticles;
 	// [SerializeField] GameObject burstParticles;
