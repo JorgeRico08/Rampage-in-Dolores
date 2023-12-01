@@ -4,36 +4,21 @@ using UnityEngine;
 
 public class Horda : MonoBehaviour
 {
-    public GameObject enemyPrefab; 
-    public int numberOfEnemies = 10; 
-    public float spawnInterval = 4f; 
     public GameObject activationObject;
+    public string enemyTag = "Enemy";  // Etiqueta de los enemigos
 
-    private void Start()
+    void Update()
     {
-        // Iniciar el ciclo de generación
-        StartCoroutine(SpawnEnemies());
-    }
-
-    IEnumerator SpawnEnemies()
-    {
-        for (int i = 0; i < numberOfEnemies; i++)
-        {
-            // Instanciar un nuevo enemigo usando el prefab y la posición actual del spawner
-            Instantiate(enemyPrefab, transform.position, Quaternion.identity);
-
-            // Esperar el intervalo de tiempo antes de generar el siguiente enemigo
-            yield return new WaitForSeconds(spawnInterval);
-        }
-
-        // Llamada a la función que activa el objeto cuando se destruyen todos los enemigos
         ActivateObject();
     }
 
     void ActivateObject()
     {
-        // Activa el objeto deseado cuando se destruyen todos los enemigos
-        if (activationObject != null)
+        // Encuentra todos los objetos con la etiqueta de enemigos
+        GameObject[] enemies = GameObject.FindGameObjectsWithTag("Enemy");
+
+        // Activa el objeto deseado solo si no hay enemigos en la escena
+        if (enemies.Length == 0 && activationObject != null)
         {
             activationObject.SetActive(true);
         }

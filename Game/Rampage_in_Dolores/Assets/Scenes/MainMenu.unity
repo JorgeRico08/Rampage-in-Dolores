@@ -1551,7 +1551,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &210910261
 RectTransform:
   m_ObjectHideFlags: 0
@@ -10191,7 +10191,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f045d3c92e8b24847a4266b681e631e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newGameSceneName: Nivel 1
+  newGameSceneName: AliensLlegada
   quickSaveSlotID: 6
   MainOptionsPanel: {fileID: 443590089}
   StartGameOptionsPanel: {fileID: 1502024977}
@@ -12715,7 +12715,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1722708163
 RectTransform:
   m_ObjectHideFlags: 0
