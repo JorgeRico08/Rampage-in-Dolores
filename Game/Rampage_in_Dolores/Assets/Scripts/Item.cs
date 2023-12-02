@@ -11,13 +11,13 @@ public class Item : MonoBehaviour
 
 	private SpriteRenderer _rederer;
 	private Collider2D _collider;
-	// private AudioSource _audio;
+	private AudioSource _audio;
 
 	private void Awake()
 	{
 		_rederer = GetComponent<SpriteRenderer>();
 		_collider = GetComponent<Collider2D>();
-		// _audio = GetComponent<AudioSource>();
+		_audio = GetComponent<AudioSource>();
 	}
 
 	private void OnTriggerEnter2D(Collider2D collision)
@@ -30,7 +30,7 @@ public class Item : MonoBehaviour
 			_rederer.enabled = false;
 			// lightingParticles.SetActive(false);
 			// burstParticles.SetActive(true);
-			// _audio.Play();
+			_audio.Play();
 			Destroy(gameObject, 2f);
 		}
 	}

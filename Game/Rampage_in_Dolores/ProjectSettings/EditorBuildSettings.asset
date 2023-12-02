@@ -10,6 +10,9 @@ EditorBuildSettings:
     guid: c09f4b0b2a9226946aa44a3dd8ffdfa6
   - enabled: 1
     path: Assets/Scenes/Nivel 1.unity
+    guid: b7d73a19cc4e4c54fab3a944177304f2
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/Nivel 2.unity
@@ -29,4 +32,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AliensLlegada.unity
     guid: 723f21e839e2a1041a3322e2adefae80
+  - enabled: 1
+    path: Assets/Scenes/TodoTermino.unity
+    guid: afec43a8b7426244da171a88f0107e6d
+  - enabled: 1
+    path: Assets/Scenes/FinNivel_1.unity
+    guid: e80341c8ed0ac0b4e8262f99d073966e
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 1ca0ec36170e22143a2116336aaab123
   m_configObjects: {}

@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 6858924660138385119}
   - component: {fileID: 3177886302290205676}
   - component: {fileID: 4163784508711886365}
-  - component: {fileID: 1260980528534321599}
   - component: {fileID: 7339764691213577408}
+  - component: {fileID: -9085684831753516814}
   m_Layer: 0
   m_Name: Bullet_Enemy 2
   m_TagString: Untagged
@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayerID: -1080920157
   m_SortingLayer: 2
   m_SortingOrder: 8
-  m_Sprite: {fileID: 117458150, guid: 697c48c73804f56498ad6fedbdfdc930, type: 3}
+  m_Sprite: {fileID: 1911292142, guid: f1138a64e5b3b1e468f5442d4303e48a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -122,21 +122,6 @@ CircleCollider2D:
   m_Offset: {x: -0.0045590997, y: 0.010438591}
   serializedVersion: 2
   m_Radius: 0.06702617
---- !u!114 &1260980528534321599
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1975499007427836134}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1f7193f2a82e66246bd5782f6f4d4023, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  velocidad: 3.02
-  "da\xF1o": 1
-  tiempoDeVida: 2
 --- !u!95 &7339764691213577408
 Animator:
   serializedVersion: 5
@@ -158,3 +143,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-9085684831753516814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1975499007427836134}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d259a008408db54abc7d3573ea70c61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidad: 3.2
+  "da\xF1o": 1
+  tiempoDeVida: 2

@@ -14,7 +14,6 @@ public class DatosPlayer : MonoBehaviour
     private Corazones _corazones;
     private RectTransform heartUI;
     private int health;
-    private float heartSize = 16f;
     private SpriteRenderer _renderer;
 
 
@@ -110,7 +109,7 @@ public class DatosPlayer : MonoBehaviour
         Corazones.resetSize(DatosPlayerinstance.iTotalVida);
         //heartUI.sizeDelta = new Vector2(heartSize * iTotalVida, heartSize);
         Debug.Log("Daño" + iTotalVida);
-        DatosPlayerinstance.oAnimatorPlayer.SetBool("isHurt", false);
+        //DatosPlayerinstance.oAnimatorPlayer.SetBool("isHurt", false);
         isHurt = false;
 
     }

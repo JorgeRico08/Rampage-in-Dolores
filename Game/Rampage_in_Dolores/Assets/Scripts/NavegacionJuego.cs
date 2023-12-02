@@ -66,6 +66,11 @@ public class NavegacionJuego : MonoBehaviour
         SceneManager.LoadScene("MainMenu");
     }
 
+    public void continuar()
+    {
+        SceneManager.LoadScene("TodoTermino");
+    }
+
     public void pausa()
     {
             isPaused = !isPaused;

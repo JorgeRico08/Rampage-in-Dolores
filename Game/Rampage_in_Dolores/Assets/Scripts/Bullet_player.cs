@@ -38,12 +38,14 @@ public class Bullet_player : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D other)
     {
         DisparoEnemigo enemy = other.GetComponent<DisparoEnemigo>();
-            if (other.CompareTag("Enemy")) {
+
+        if (other.CompareTag("Enemy")) {
 			// collision.SendMessageUpwards("AddDamage");
             if (datosPlayer != null)
             {
                 datosPlayer.sumarPuntos(20);
             }
+
             enemy.Hit();
             Destroy(gameObject);
 		    }

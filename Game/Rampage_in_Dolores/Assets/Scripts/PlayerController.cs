@@ -19,7 +19,6 @@ public class PlayerController : MonoBehaviour
     private bool Grounded;
 
     private Vector2 _movement;
-    private bool _facingRight = true;
     private bool _isGrounded;
     private float LastShoot;
 
@@ -105,6 +104,7 @@ public class PlayerController : MonoBehaviour
 
         GameObject bullet = Instantiate(BulletPrefab, transform.position + direction * 0.1f, Quaternion.identity);
         bullet.GetComponent<Bullet_player>().SetDirection(direction);
+
     }
 
     //public void Hit()

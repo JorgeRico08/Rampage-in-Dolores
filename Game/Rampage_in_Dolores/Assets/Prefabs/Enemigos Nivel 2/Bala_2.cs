@@ -26,6 +26,7 @@ public class BalaNivel2 : MonoBehaviour
         {
             // collision.SendMessageUpwards("AddDamage");
             Datos_Player.hurtPlayer();
+            Datos_Player.restarPuntos(10);
             Destroy(gameObject);
         }
     }
