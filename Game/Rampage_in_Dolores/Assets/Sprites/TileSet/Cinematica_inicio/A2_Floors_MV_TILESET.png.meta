@@ -165,7 +165,7 @@ TextureImporter:
         width: 24
         height: 79
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -186,7 +186,7 @@ TextureImporter:
         width: 83
         height: 137
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -194,6 +194,48 @@ TextureImporter:
       bones: []
       spriteID: d24b725a968672144b7242b33a4593e3
       internalID: -987870425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Floors_MV_TILESET_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5c2debc8a4b05439558ec01f0672bf
+      internalID: -38766236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Floors_MV_TILESET_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 96
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15839c61805fe042ac94827a3a7a02e
+      internalID: 479201173
       vertices: []
       indices: 
       edges: []
@@ -212,6 +254,8 @@ TextureImporter:
       A2_Floors_MV_TILESET_0: 63840775
       A2_Floors_MV_TILESET_1: 17061162
       A2_Floors_MV_TILESET_2: -987870425
+      A2_Floors_MV_TILESET_3: -38766236
+      A2_Floors_MV_TILESET_4: 479201173
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

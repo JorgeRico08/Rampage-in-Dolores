@@ -129,7 +129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BulletPrefab: {fileID: 1975499007427836134, guid: b2ec87b5dbcca1245b75fa30f701f841, type: 3}
-  Speed: 2.5
+  Speed: 2
   jumpForce: 4
   groundCheck: {fileID: 6270643302574281333}
   groundLayer:

@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2767300258151500267}
   - component: {fileID: 7916781271016939210}
   - component: {fileID: 5772697683209749423}
-  - component: {fileID: 6798171967875434862}
+  - component: {fileID: 2308074693970247340}
   m_Layer: 7
   m_Name: Enemigo_L2
   m_TagString: Enemy
@@ -173,7 +173,7 @@ CapsuleCollider2D:
   m_Offset: {x: -0.041350186, y: 0}
   m_Size: {x: 0.18048179, y: 0.296875}
   m_Direction: 0
---- !u!114 &6798171967875434862
+--- !u!114 &2308074693970247340
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -182,7 +182,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1728991786323775850}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 618e5eaa423c116448d1612211aed59a, type: 3}
+  m_Script: {fileID: 11500000, guid: 61878e9115d1e7e49ba501c5c9b6c3a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   controladorDisparo: {fileID: 5059373858326007974}
@@ -191,7 +191,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   jugadorEnRango: 0
-  balaEnemigo: {fileID: 1975499007427836134, guid: 16db5c48c7a47fc4c89012713c46bc0e, type: 3}
+  balaEnemigo: {fileID: 1975499007427836134, guid: e1de38e4505955e4694e88dfacbde6cd, type: 3}
   tiempoEntreDisparo: -1
   tiempoEntreDisparos: 1
   tiempoEsperaDisparo: 1

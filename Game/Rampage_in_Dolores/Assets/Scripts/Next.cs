@@ -9,7 +9,7 @@ public class Next : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            SceneManager.LoadScene(2);
+            SceneManager.LoadScene("FinNivel_1");
         }
     }
 }

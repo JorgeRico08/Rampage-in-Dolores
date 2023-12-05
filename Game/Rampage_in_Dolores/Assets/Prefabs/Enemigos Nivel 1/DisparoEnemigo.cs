@@ -34,7 +34,7 @@ public class DisparoEnemigo : MonoBehaviour
 
     // public GameObject shooter;
     // Start is called before the first frame update
-
+    private AudioSource _audio;
 
     private Transform _firePoint;
     private Transform _shootingArea;
@@ -43,6 +43,8 @@ public class DisparoEnemigo : MonoBehaviour
     {
         _rigidbody = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
+        _audio = GetComponent<AudioSource>();
+
     }
 
     // Start is called before the first frame update

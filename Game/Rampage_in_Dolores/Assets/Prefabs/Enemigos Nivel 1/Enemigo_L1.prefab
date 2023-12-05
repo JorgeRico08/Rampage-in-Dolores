@@ -195,7 +195,7 @@ MonoBehaviour:
   tiempoEntreDisparo: -1
   tiempoEntreDisparos: 1
   tiempoEsperaDisparo: 1
-  velocidad: 1
+  velocidad: 0.5
   BulletPrefab: {fileID: 0}
 --- !u!1 &7094028986778286259
 GameObject:
